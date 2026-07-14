@@ -1,5 +1,7 @@
 # JudgeBench — LLM-as-a-Judge Evaluation Harness for Product Catalogs
 
+**Live Interactive Demo:** [https://judgebench.streamlit.app/](https://judgebench.streamlit.app/)
+
 ---
 
 ## Executive Overview
@@ -112,7 +114,9 @@ streamlit run app.py
 
 ## Deployment Instructions
 
-The interactive Streamlit application can be deployed to Streamlit Community Cloud:
+The interactive Streamlit application is deployed live at: **[https://judgebench.streamlit.app/](https://judgebench.streamlit.app/)**
+
+To deploy your own instance to Streamlit Community Cloud:
 1. Push `judgebench` to GitHub.
 2. Sign in to Streamlit Community Cloud.
 3. Select repository `judgebench` -> Main file `app.py`.
